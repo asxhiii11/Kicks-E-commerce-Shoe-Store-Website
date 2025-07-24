@@ -3,14 +3,7 @@
 Welcome to **Kicks**, a modern and responsive e-commerce shoe store website built using **HTML** and **CSS**. This project is a front-end prototype showcasing multi-brand footwear collections with a clean layout, user-friendly design, and stylish UI elements.
 
 ## 🌐 Live Preview
-> *(Optional)* Add your hosted link here  
 > [View Live](https://asxhiii11.github.io/Kicks-E-commerce-Shoe-Store-Website/)
-
----
-
-## 📸 Screenshots
-
-> *(Optional)* Add screenshots of homepage, product sections, review carousel, and contact form here
 
 ---
 
